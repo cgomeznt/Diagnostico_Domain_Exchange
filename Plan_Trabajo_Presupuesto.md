@@ -1,7 +1,7 @@
 ### **Documento Unificado - Diagnóstico de Infraestructura IT**  
-**Empresa:** [Nombre de la Empresa]  
-**Fecha:** [DD/MM/AAAA]  
-**Elaborado por:** [Nombre del Consultor]  
+**Empresa:** SERVICIO MAS QUE DIGITAL, C.A.
+**Fecha:** 16/06/2025
+**Elaborado por:**   Carlos Gómez / José V. Echeverria
 
 ---
 
@@ -52,12 +52,12 @@ Get-Queue \| Where-Object {$_.MessageCount -gt 50}
 ---
 
 ## **3. Presupuesto (Bs. VE)**  
-| **Descripción**                | **Horas** | **Costo/Hora** | **Subtotal** |
-|--------------------------------|-----------|----------------|--------------|
-| Diagnóstico DCs (incluye NTP)  | 7         | [X] Bs.        | [X] Bs.      |
-| Diagnóstico Exchange           | 8         | [X] Bs.        | [X] Bs.      |
-| Informe técnico                | 4         | [X] Bs.        | [X] Bs.      |
-| **TOTAL**                      | **19**    |                | **[X] Bs.**  |
+| **Descripción**                | **Horas** |  **Subtotal** |
+|--------------------------------|-----------|--------------|
+| Diagnóstico DCs (incluye NTP)  | 7         |  1250 $.      |
+| Diagnóstico Exchange           | 8         |  1250 $.      |
+| Informe técnico                | 4         |  500 $.      |
+| **TOTAL**                      | **19**    |  **3.500 $**  |
 
 **Notas:**  
 - Costos válidos por 15 días  
@@ -88,14 +88,4 @@ Get-Queue \| Where-Object {$_.MessageCount -gt 50}
 **Cliente:** ________________________   Fecha: ___/___/___  
 **Proveedor:** ______________________   Fecha: ___/___/___  
 
----
 
-### **Formato para Word 2016:**  
-1. Copie este documento completo  
-2. Pegue en Word usando **"Conservar formato de origen"**  
-3. Ajuste fuentes a:  
-   - Títulos: **Calibri Light 14pt (azul #2F5496)**  
-   - Cuerpo: **Calibri 11pt**  
-4. Insertar logo de empresa en portada (opcional)  
-
-**¿Requiere personalización adicional?** Estoy disponible para ajustes.
