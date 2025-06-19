@@ -1,7 +1,10 @@
 ### **Documento Unificado - Diagnóstico de Infraestructura IT**  
 **Empresa:** SERVICIO MAS QUE DIGITAL, C.A.
+
 **Fecha:** 16/06/2025
+
 **Elaborado por:**   Carlos Gómez / José V. Echeverria
+
 
 ---
 
