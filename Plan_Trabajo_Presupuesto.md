@@ -68,27 +68,6 @@ Get-Queue \| Where-Object {$_.MessageCount -gt 50}
 
 ---
 
-## **4. Anexos Técnicos**  
-### **4.1 Ejemplo de Hallazgos NTP**  
-```plaintext
-[DC01] 
-- Fuente de tiempo: time.windows.com 
-- Desfase: +85ms (✅ dentro de umbral) 
 
-[DC02] 
-- Error: No sincronizado con PDC 
-- Acción: w32tm /config /syncfromflags:domhier /update
-```
-
-### **4.2 Checklist Preliminar**  
-- [ ] Acceso remoto a servidores  
-- [ ] Credenciales de administrador  
-- [ ] Backup reciente de AD y Exchange  
-
----
-
-## **5. Firmas**  
-**Cliente:** ________________________   Fecha: ___/___/___  
-**Proveedor:** ______________________   Fecha: ___/___/___  
 
 
