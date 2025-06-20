@@ -64,7 +64,7 @@ Get-Queue \| Where-Object {$_.MessageCount -gt 50}
 
 **Notas:**  
 - Costos válidos por 15 días  
-- Horario de trabajo: L-V (10:00 AM - 5:00 PM)  
+- Horario de trabajo: L-V (09:00 AM - 4:00 PM)  
 
 ---
 
