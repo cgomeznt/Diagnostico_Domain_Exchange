@@ -57,10 +57,10 @@ Get-Queue \| Where-Object {$_.MessageCount -gt 50}
 ## **3. Presupuesto (Bs. VE)**  
 | **Descripción**                | **Horas** |  **Subtotal** |
 |--------------------------------|-----------|--------------|
-| Diagnóstico DCs (incluye NTP)  | 7         |  1500 $.      |
-| Diagnóstico Exchange           | 8         |  1500 $.      |
+| Diagnóstico DCs (incluye NTP)  | 4         |  1400 $.      |
+| Diagnóstico Exchange           | 4         |  1400 $.      |
 | Informe técnico                | 4         |  0 $.      |
-| **TOTAL**                      | **19**    |  **3.000 $**  |
+| **TOTAL**                      | **12**    |  **2800 $**  |
 
 **Notas:**  
 - Costos válidos por 15 días  
